@@ -75,7 +75,7 @@ styles
 ### CustomComponents 子資料夾
 此子資料夾包含所有自定義組件。每個組件都放在其自己的文件中。
 
-####通用元件
+#### 通用元件
 
 - [`Custom-album.js`](#custom-albumjs): 相簿選取功能組件，通常放在"Custom-imageUpload.js"配合使用。
 - [`Custom-CardHeader.js`](#custom-cardheaderjs): 頁面頭部的命名組件。
